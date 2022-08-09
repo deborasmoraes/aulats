@@ -1,0 +1,32 @@
+h1{
+    font-family: monospace;
+    font-style: oblique;
+    color: lightseagreen;
+}
+
+.header{
+    background-color: powderblue;
+    text-align: center;
+    height: 80px;
+    margin: 5cm, 5cm, 5cm, 5cm;
+}
+
+.soma{
+    border-radius: 100%;
+}
+.menos{
+    border-radius: 100%;
+}
+.vezes{
+    border-radius: 100%;
+}
+.divide{
+    border-radius: 100%;
+}
+
+.num1{
+    border-radius: 10px;
+}
+.num2{
+    border-radius: 10px;
+}
